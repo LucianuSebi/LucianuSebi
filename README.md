@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently trying to get better at Java and MySQL<br>⚡ Fun fact: I get crazy when i am programming...
+🔭 I’m currently trying to get better at Java and MySQL<br>⚡ Projects: Most of my projects have been pinned and have been created in colaboration with my team.
 
 
 ## 🌐 Socials:
